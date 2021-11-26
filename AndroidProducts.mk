@@ -5,10 +5,10 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/colt_phoenix.mk
+    $(LOCAL_DIR)/aosp_phoenix.mk
 
 COMMON_LUNCH_CHOICES := \
-    colt_phoenix-user \
-    colt_phoenix-userdebug \
-    colt_phoenix-eng
+    aosp_phoenix-user \
+    aosp_phoenix-userdebug \
+    aosp_phoenix-eng
 
